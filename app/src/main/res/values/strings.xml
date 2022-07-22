@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="imp_soon">Forgot Password will be implemented soon.</string>
+    <string name="enter_name">Please Enter Username</string>
+    <string name="enter_pass">Please enter Password</string>
+    <string name="pass_length">Password should be 6 characters at least.</string>
+    <string name="login_success">Login Successful.</string>
+    <string name="email">EMAIL:</string>
+    <string name="pass">PASSWORD:</string>
+</resources>
